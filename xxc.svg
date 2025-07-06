@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg834"
+   width="380"
+   height="380"
+   viewBox="0 0 380 380"
+   sodipodi:docname="xxc.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs838" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     id="namedview836"
+     showgrid="false"
+     inkscape:zoom="0.64868421"
+     inkscape:cx="135.27672"
+     inkscape:cy="143.9885"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg834" />
+  <image
+     width="380"
+     height="380"
+     preserveAspectRatio="none"
+     xlink:href="https://i.ibb.co/b5kv6Xn3/xxcvd.gif"
+     id="image842"
+     x="-100.20284"
+     y="-40.081135" />
+  <ellipse
+     style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:0.60944208;fill-rule:evenodd;stroke:#ff0000;stroke-width:2.13543296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path844"
+     cx="235.91129"
+     cy="198.86409"
+     rx="78.571465"
+     ry="48.559837"
+     onclick="this.style.fill = '#0000ff';"
+      />
+</svg>
